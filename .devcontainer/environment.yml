@@ -1,0 +1,7 @@
+name: dff-aai-genai
+channels:  
+ - defaults
+dependencies:  
+- python=python3  
+- openai  
+- python-dotenv

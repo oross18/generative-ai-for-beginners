@@ -2,6 +2,6 @@ name: dff-aai-genai
 channels:  
  - defaults
 dependencies:  
-- python=python3  
+- python=python  
 - openai  
 - python-dotenv
